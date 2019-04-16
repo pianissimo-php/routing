@@ -1,6 +1,0 @@
-environment: dev
-controllers:
-  - App\Controller\IndexController
-annotations:
-  Route: Pianissimo\Component\Routing\Annotation\Route
-  Person: App\Annotation\Person
